@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/buidlbox-landing-v0/static/css/main.c10d97b2.css",
-    "main.js": "/buidlbox-landing-v0/static/js/main.42e756a5.js",
+    "main.js": "/buidlbox-landing-v0/static/js/main.c15a2e38.js",
     "static/media/eth-header.png": "/buidlbox-landing-v0/static/media/eth-header.3147d89e692cee52e806.png",
     "static/media/home-2-2x.png": "/buidlbox-landing-v0/static/media/home-2-2x.2766aa02dd2ca9c06113.png",
     "static/media/home-1-2x.png": "/buidlbox-landing-v0/static/media/home-1-2x.710eea674a4fa82a6bf1.png",
@@ -49,10 +49,10 @@
     "static/media/btn-box-1.svg": "/buidlbox-landing-v0/static/media/btn-box-1.3e6b8de3d8bf9290d4df151940e5ab1c.svg",
     "static/media/btn-box-3.svg": "/buidlbox-landing-v0/static/media/btn-box-3.a85495e36dff65f6fb85ef3e51ce0669.svg",
     "main.c10d97b2.css.map": "/buidlbox-landing-v0/static/css/main.c10d97b2.css.map",
-    "main.42e756a5.js.map": "/buidlbox-landing-v0/static/js/main.42e756a5.js.map"
+    "main.c15a2e38.js.map": "/buidlbox-landing-v0/static/js/main.c15a2e38.js.map"
   },
   "entrypoints": [
     "static/css/main.c10d97b2.css",
-    "static/js/main.42e756a5.js"
+    "static/js/main.c15a2e38.js"
   ]
 }

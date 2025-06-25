@@ -5,7 +5,7 @@ import App from './App/App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <BrowserRouter>
+  <BrowserRouter basename="/buidlbox-landing-v0">
     <React.StrictMode>
       <App />
     </React.StrictMode>
